@@ -1,5 +1,5 @@
 # Bank-Management-system
-🏦 Bank Management System in C
+🏦 Bank Management System in C.
 This Bank Management System is a console-based application developed in the C programming language. It offers a suite of basic banking operations designed to simulate how banks handle customer accounts and transactions. Built entirely from scratch using procedural programming, this project showcases efficient use of file handling, menu-driven interfaces, and structured logic flow.
 
 ✨ Features
